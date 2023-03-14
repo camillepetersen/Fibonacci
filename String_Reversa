@@ -1,3 +1,5 @@
+//Código desenvolvido em C por: Camille Petersen
+
 #include <stdio.h>
 #include <string.h>
 
